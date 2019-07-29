@@ -8,7 +8,7 @@
 
 P423是Indiana大学王垠当时选的编译器的课程，[这里](https://github.com/srwaggon/p423)和[这里](https://github.com/keyanzhang/p423-compiler)都能找到一些课程的代码。
 
-这里有部分我翻译成[中文的资料](http://zenlife.tk/nanopass0.md)。
+这里有部分我翻译成[中文的资料](http://www.zenlife.tk/nanopass0.md)。
 
 
 # 运行
